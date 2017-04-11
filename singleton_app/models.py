@@ -31,7 +31,7 @@ class SingletonModel(models.Model):
 
 
 class SiteSettings(SingletonModel):
-    support = models.EmailField(default='supprot@example.com')
+    support = models.EmailField(default='support@example.com')
     sales_department = models.EmailField(blank=True)
     twilio_account_sid = models.CharField(max_length=255, default='ACbcad883c9c3e9d9913a715557dddff99')
     twilio_auth_token = models.CharField(max_length=255, default='abd4d45dd57dd79b86dd51df2e2a6cd5')
