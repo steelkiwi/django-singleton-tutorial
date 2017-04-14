@@ -1,4 +1,4 @@
-This repo contains examples from [article in our blog]().
+This repo contains examples from [article in our blog](http://steelkiwi.com/blog/practical-application-singleton-design-pattern/).
 
 As it is written in the book “Design Patterns:  Elements of Reusable Object-Oriented Software” by Gang of Four:
 
